@@ -8,6 +8,11 @@ Now that they’ve hired a new data team and are strategizing their marketing bu
 
 ## Data Structure
 The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
+
 ![image](https://github.com/user-attachments/assets/afb9c4e5-77f7-4703-8b04-bdd15defcf3f)
 
+## Dashboard
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/ericli0208/viz/RowHealth_17335647652660/Dashboard1). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+
+![Dashboard 1](https://github.com/user-attachments/assets/6cc937fa-55f6-4a55-950e-531e5183dd6c)
 
