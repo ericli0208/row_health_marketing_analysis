@@ -22,7 +22,7 @@ After meeting with the Marketing team to clarify metric definitions, dimensions,
 
 ### North Star Metrics
 - **Signup Rate:** The percent of people who see a campaign and subsequently sign up for a Row Health plan.
-- **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
+- **Cost Per Signup:** The average dollars spent in order to acquire a signup from each campaign.
 - **Click Through Rate:** The percent of people who see a campaign and click on the associated link. 
   
 ### Key Dimensions
@@ -35,10 +35,18 @@ After meeting with the Marketing team to clarify metric definitions, dimensions,
 ## Insights Summary
 
 ### Signup Rate
-
-### Click Through Rate
+- Across all campaign categories, Health For All campaigns had the best-performing signup rate (2.1%) and the second-highest number of signups (3.5K).
+- The Health Awareness campaign type, which the Health For All campaign falls under, has the highest sign up rate across all other campaign types (3.72%).
+- The campaign category with the highest number of signups - #HealthyLiving - had a relatively low signup rate at under 0.3%. 
+- Sign up volumes rose tremendously across all campaigns at the start of 2020Q2, after which they dipped back down into normal levels, suggesting a peak in demand for medical insurance during the pandemic. 
+- The silver plan was the most widely sought-after health plan with the highest signup rate (0.17%) and 14k signups out of the 16k total. The platinum plan performed the worst, with only 12 signups across 5 years. 
 
 ### Cost per Signup
+- Across all campaign categories, Golden Years Security had the highest cost per signup ($176) as well as the lowest number of signups (23).
+-  
+
+### Click Through Rate
+- 
 
 ## Recommendations
 
