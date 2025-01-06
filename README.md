@@ -36,7 +36,7 @@ After meeting with the Marketing team to clarify metric definitions, dimensions,
 
 ### Signup Rate
 - Across all campaign categories, Health For All campaigns had the best-performing signup rate (2.1%) and the second-highest number of signups (3.5K).
-- In the Health For All campaign, the Health Awareness campaign type has the highest sign up rate across all other campaign types (2.78%).
+- In the Health For All campaign, the Health Awareness campaign type has the highest sign up rate across all other campaign types (3.72%).
 - The campaign category with the highest number of signups - #HealthyLiving - had a relatively low signup rate at under 0.3%. 
 - Sign up volumes rose tremendously across all campaigns at the start of 2020Q2, after which they dipped back down into normal levels, suggesting a peak in demand for medical insurance during the pandemic. 
 - The silver plan was the most widely sought-after health plan with the highest signup rate (0.17%) and 14k signups out of the 16k total. The platinum plan performed the worst, with only 12 signups across 5 years. 
