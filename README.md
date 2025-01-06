@@ -63,3 +63,11 @@ Row Health's interactive dashboard can be found in Tableau Public [here](https:/
 
 ![Dashboard 1](https://github.com/user-attachments/assets/6cc937fa-55f6-4a55-950e-531e5183dd6c)
 
+## Presentation
+The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1KoJWtujMauO6d-q4liMUkkdQ-h_KMdoT/edit?usp=sharing&ouid=102705438042521612356&rtpof=true&sd=true). Some extracts are presented below for easy viewing.
+![image](https://github.com/user-attachments/assets/f5625214-83a9-4e30-a42b-4dbe2ce0f205)
+![image](https://github.com/user-attachments/assets/60755d86-8991-4292-b43a-fd93f34ae802)
+![image](https://github.com/user-attachments/assets/d1612e9c-2f65-4917-a813-5e9cec5dc3d0)
+
+
+
